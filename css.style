@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Georgia";
+}
+
+.navlist {
+    width: 100%;
+    padding: 5px 10vw;
+}
+
+.navlist ul {
+    display: flex;
+    list-style: none;
+}
+
+.navlist ul li:first-child {
+    flex: 0.5
+}
+
+.navlist ul h4: serif;{
+}
+.navlist ul a {
+    margin-left: 20px
+}
+
+.container {
+    width: 100%;
+    height: 80vh;
+    padding-top:30vh;
+  	background-color:"Maroon"  
+}
